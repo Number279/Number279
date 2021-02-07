@@ -1,4 +1,4 @@
-![Header](https://i.imgur.com/Sxr5qDR.png "Header")
+![Header](https://i.imgur.com/GppbiXE.png "Header")
 
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
