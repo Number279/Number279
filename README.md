@@ -2,7 +2,7 @@
 
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a proud father of four and aspiring full stack developer.  I work mostly with javascript and javascript frameworks like angular and react on the front-end using css and bootstrap for aesthetics.  I use mostly java for the backend of applications with spring tools and spring boot to build full stack applications.  You can reach me on [![LinkedIn][3.1]][linkedin], [![Facebook][1.1]][facebook], [![Twitter][2.1]][twitter], or through email at sawyercarroll@gmail.com 
+I'm a proud father of four and aspiring full stack developer.  I work mostly with javascript and javascript frameworks like angular and react on the front-end using css and bootstrap for aesthetics.  I use mostly java for the backend of applications with spring tools and spring boot to build full stack applications.  You can checkout my website www.sawyercarroll.com if you'd like to know more about me.  You can reach me on [![LinkedIn][3.1]][linkedin], [![Facebook][1.1]][facebook], [![Twitter][2.1]][twitter], or through email at sawyercarroll@gmail.com 
 
 <!--
 **Number279/Number279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ I'm a proud father of four and aspiring full stack developer.  I work mostly wit
   <!---Links --->
   [facebook]: https://www.facebook.com/sawyer.carroll.7
   [twitter]: https://twitter.com/SawyerCarroll3
-  [linkedin]: https://www.linkedin.com/in/sawyer-carroll-240634206/
+  [linkedin]: https://www.linkedin.com/in/sawyer-carroll/
   
    <!---Icons --->
    
